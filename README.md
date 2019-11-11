@@ -1,0 +1,2 @@
+# helloworld
+Golang + Bazel
